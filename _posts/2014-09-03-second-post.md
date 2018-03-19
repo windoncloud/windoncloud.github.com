@@ -1,9 +1,8 @@
 ---
-title: Fourth Post
-author: Chris
+title: 窗外
+author: 云上的风
 layout: post
 ---
-窗外
 昨日还在窗前<br/>
 为你写晴朗的诗<br/>
 一阵风雨<br/>
