@@ -1,6 +1,6 @@
 ---
 title: 之后
-author: 云上的风
+author: Kingsley
 layout: post
 ---
 无边的尽头，<br/>

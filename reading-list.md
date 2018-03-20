@@ -8,15 +8,14 @@ order: 3
 
 I love books! Here are some I'm reading now:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. 大仲马: *基督山伯爵*
+2. 简 奥斯汀: *傲慢与偏见*
+3. 王尔德: *夜莺与玫瑰*
+4. 安托万: *小王子*
+5. 列夫 托尔斯泰: *复活*
+6. 小仲马: *茶花女*
+7. 玛格丽特 米切尔: *飘*
+8. 洪应明: *菜根谭*
+9. 朱自清: *朱自清文集*
+10. 胡适: *人生有何意义*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)

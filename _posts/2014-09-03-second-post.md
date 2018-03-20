@@ -1,6 +1,6 @@
 ---
 title: 窗外
-author: 云上的风
+author: Kingsley
 layout: post
 ---
 昨日还在窗前<br/>
